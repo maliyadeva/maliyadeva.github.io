@@ -56,7 +56,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "witsec-white-label": true
   },
   "pages": {
     "index.html": {
